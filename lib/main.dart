@@ -5,7 +5,7 @@ void main(){
     debugShowCheckedModeBanner: false,
     home: Scaffold(
       appBar: AppBar(
-        title: Center(child: Text('Rows and Columns')),
+        title: Center(child: Text('Rows and Columns Flutter Task')),
         backgroundColor: Colors.blue,
         
       ),
@@ -25,11 +25,6 @@ void main(){
               )
             ],
           ),
-          // Container(
-          //   height: 200,
-          //   width: 200,
-          //   color: Colors.amber,
-          // ),
           Container(
             height: 150,
             width: 500,
